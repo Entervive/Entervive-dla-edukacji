@@ -17,9 +17,9 @@ Profesjonalne rozwiązania hostingowe dla nauczycieli w symbolicznej cenie 20 z�
 - 🛠️ Wsparcie przez Messengera/email
 
 ## 💻 Wymagania techniczne
-- Docker 20.10+
-- Docker Compose 2.0+
-- Certyfikat SSL (możliwość wygenerowania przez Let's Encrypt)
+- Zapoznanie z Node.js
+- Zapoznanie z CMS Hugo i motywem hugo doks
+- Serwer do hostowania strony (Apache/Nginx)
 
 ## 🛠️ Instalacja
 
