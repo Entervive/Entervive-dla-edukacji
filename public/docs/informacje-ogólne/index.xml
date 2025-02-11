@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entervive dla Edukacji on Entervive Edukacja</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Entervive dla Edukacji on Entervive Edukacja</description>
+    <title>Informacje Ogólne on Entervive Edukacja</title>
+    <link>http://localhost:1313/docs/informacje-og%C3%B3lne/</link>
+    <description>Recent content in Informacje Ogólne on Entervive Edukacja</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <copyright>Copyright (c) Entervive</copyright>
     <lastBuildDate>Sat, 01 Feb 2025 20:43:32 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/informacje-og%C3%B3lne/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entervive dla Edukacji</title>
       <link>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</link>
       <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
       <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</guid>
       <description>Zapoznaj się z Entervive dla Edukacji i znajdź szybko potrzebne informacje.</description>
-    </item>
-    <item>
-      <title>Example Post</title>
-      <link>http://localhost:1313/blog/example-post/</link>
-      <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/blog/example-post/</guid>
-      <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
       <title>Misja i Wprowadzenie</title>
@@ -50,13 +43,6 @@
       <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
       <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/</guid>
       <description>Poznaj podstawowe zasady ochrony swoich danych i kont online.</description>
-    </item>
-    <item>
-      <title>Polityka Prywatności</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>Dokument określający zasady przetwarzania danych użytkowników serwisu</description>
     </item>
   </channel>
 </rss>

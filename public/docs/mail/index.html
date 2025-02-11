@@ -14,13 +14,14 @@
 
 <link rel="stylesheet" href="/main.c62012c610412632d711d481746147e6e2ff809681ccb7980f27c528a3a32d138b3a607901f41b0da164097a0664582992e2b47c5ae115d87bea37d241902ef8.css" integrity="sha512-xiASxhBBJjLXEdSBdGFH5uL/gJaBzLeYDyfFKKOjLROLOmB5AfQbDaFkCXoGZFgpkuK0fFrhFdh76jfSQZAu&#43;A==" crossorigin="anonymous">
 
-<noscript><style>img.lazyload { display: none; }</style></noscript><base href="http://localhost:1313/categories/">
+<noscript><style>img.lazyload { display: none; }</style></noscript><base href="http://localhost:1313/docs/mail/">
 
-  <link rel="canonical" href="http://localhost:1313/categories/">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/categories/index.xml" title="Categories | Entervive Edukacja">
+  <link rel="canonical" href="https://entervive.edu/docs/mail">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/docs/mail/index.xml" title="Mail | Entervive Edukacja"><link rel="sitemap" type="application/xml" href="http://localhost:1313/docs/mail/sitemap.xml" title="Mail | Entervive Edukacja">
 
-<title>Categories  |  Entervive Edukacja</title>
-<meta name="description" content="Entervive dla Edukacji - platforma hostingowa i dokumentacyjna dla nauczycieli oferująca bezpieczne rozwiązania IT w edukacji.">
+  <meta name="robots" content="index, follow">
+<title>Mail - Entervive Edu</title>
+<meta name="description" content="Instrukcje dotyczące logowania, konfiguracji podpisu i obsługi SOGo w Entervive Edu.">
 
     
     <link rel="icon" href="/favicon.ico" sizes="32x32">
@@ -47,18 +48,19 @@
       >
 <link rel="manifest" href="/manifest.webmanifest">
 
-<meta property="og:url" content="http://localhost:1313/categories/">
+<meta property="og:url" content="http://localhost:1313/docs/mail/">
   <meta property="og:site_name" content="Entervive Edukacja">
-  <meta property="og:title" content="Categories">
-  <meta property="og:description" content="Entervive dla Edukacji - platforma hostingowa i dokumentacyjna dla nauczycieli oferująca bezpieczne rozwiązania IT w edukacji.">
+  <meta property="og:title" content="Mail">
+  <meta property="og:description" content="Konfiguracja poczty e-mail, logowanie, podpisy i obsługa SOGo.">
   <meta property="og:locale" content="pl">
   <meta property="og:type" content="website">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Categories">
-  <meta name="twitter:description" content="Entervive dla Edukacji - platforma hostingowa i dokumentacyjna dla nauczycieli oferująca bezpieczne rozwiązania IT w edukacji.">
+  <meta name="twitter:title" content="Mail">
+  <meta name="twitter:description" content="Konfiguracja poczty e-mail, logowanie, podpisy i obsługa SOGo.">
       <meta name="twitter:site" content="@getdoks">
 
+    
     <script type="application/ld+json">
   {
    "@context": "https://schema.org",
@@ -72,8 +74,14 @@
      },
      {
        "@type": "ListItem",
-       "name": "Categories",
+       "item": "http://localhost:1313/docs/",
+       "name": "Entervive Dla Edukacji – Centrum Pomocy",
        "position": 2
+     },
+     {
+       "@type": "ListItem",
+       "name": "Mail",
+       "position": 3
      }
    ]
  }
@@ -87,7 +95,7 @@
 </head>
 
   
-  <body class="list taxonomy categories" data-bs-spy="scroll" data-bs-target="#toc" data-bs-root-margin="0px 0px -60%" data-bs-smooth-scroll="true" tabindex="0">
+  <body class="list section docs" data-bs-spy="scroll" data-bs-target="#toc" data-bs-root-margin="0px 0px -60%" data-bs-smooth-scroll="true" tabindex="0">
     <div class="sticky-top">
 <header class="navbar navbar-expand-lg">
   <div class="container-lg">
@@ -104,6 +112,82 @@
       </svg>
     </button>
     
+    <button class="btn btn-link d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavSection" aria-controls="offcanvasNavSection" aria-label="Open section navigation menu">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-dots-vertical" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
+        <path d="M12 19m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
+        <path d="M12 5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
+      </svg>
+    </button>
+    <div class="offcanvas offcanvas-start d-lg-none" tabindex="-1" id="offcanvasNavSection" aria-labelledby="offcanvasNavSectionLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavSectionLabel">Docs</h5>
+        <button type="button" class="btn btn-link nav-link p-0 ms-auto" data-bs-dismiss="offcanvas" aria-label="Close">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M18 6l-12 12"></path>
+            <path d="M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="offcanvas-body">
+        <aside class="doks-sidebar mt-n3">
+          <nav id="doks-docs-nav" aria-label="Tertiary navigation">
+            
+  
+    
+<nav class="section-nav docs-links">
+  <ul class="list-unstyled">
+
+  <li>
+    <details open>
+      <summary>Informacje Ogólne</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/">Entervive dla Edukacji</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/misja-i-wprowadzenie/">Misja i Wprowadzenie</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/jak-zarejestrowa%C4%87-si%C4%99-w-ramach-programu/">Jak zarejestrować się w ramach programu?</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/jaki-cms-wybra%C4%87/">Jaki CMS wybrać?</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/">Podstawy bezpieczeństwa w sieci</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/">Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/">WordPress</a>
+  </li>
+
+  <li class="active" >
+      <a aria-current="page" href="/docs/mail/">Mail</a>
+  </li>
+  </ul>
+</nav>
+
+  
+
+          </nav>
+        </aside>
+      </div>
+    </div>
     
     <button class="btn btn-link nav-link mx-2 order-3 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavMain" aria-controls="offcanvasNavMain" aria-label="Open main navigation menu">
       <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-menu" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -218,12 +302,24 @@
         
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
-    <h1 class="text-center">Categories</h1>
-    <div class="text-center"></div>
-    <div class="card-list">
+    <article>
+      <h1 class="text-center">Mail</h1>
       
-    </div>
-    
+			<div class="card-list">
+				
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+			</div>
+    </article>
   </div>
 </div>
 

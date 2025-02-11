@@ -6,6 +6,12 @@ date: 2025-02-02T06:43:36+01:00
 lastmod: 2025-02-02T06:43:36+01:00
 draft: false
 images: []
+seo:
+  title: "Entervive dla Edukacji" # custom title (optional)
+  description: "Srofesjonalne narzędzia IT dla nauczycieli w cenie 20 zł rocznie" # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  robots: "index, follow" # custom robot tags (optional)
+
 features:
   - title: "Hosting"
     text: "Profesjonalna subdomena i poczta"

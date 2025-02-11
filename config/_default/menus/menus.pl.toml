@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Dokumentacja"
-  url = "/docs/zaczynasz/zaczynamy/"
+  url = "docs/informacje-ogólne/entervive-dla-edukacji/"
   weight = 10
 
 #[[main]]

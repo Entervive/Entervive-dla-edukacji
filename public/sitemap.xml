@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/blog/example-post/</loc>
     <lastmod>2023-09-07T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,18 +17,48 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/zaczynasz/</loc>
-    <lastmod>2023-09-07T16:06:50+02:00</lastmod>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/</loc>
+    <lastmod>2025-02-11T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/docs/zaczynasz/witamy-w-entervive-dla-edukacji/</loc>
-    <lastmod>2023-09-12T12:07:48+02:00</lastmod>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/misja-i-wprowadzenie/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/jak-zarejestrowa%C4%87-si%C4%99-w-ramach-programu/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/jaki-cms-wybra%C4%87/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/ghostly-cms/</loc>
+    <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/wordpress/</loc>
+    <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/mail/</loc>
+    <lastmod>2025-02-11T16:06:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2023-09-07T16:12:03+02:00</lastmod>
+    <lastmod>2025-02-11T16:12:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
