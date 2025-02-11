@@ -27,3 +27,15 @@ Profesjonalne rozwiązania hostingowe dla nauczycieli w symbolicznej cenie 20 z�
 ```bash
 git clone https://github.com/twojanazwa/entervive-edukacja.git
 cd entervive-edukacja
+```
+
+2. Zainstaluj potrzebne pakiety to jego działania
+```bash
+winget install Hugo.Hugo.Extended
+npm install
+```
+
+3. Włącz strone i modyfikuj do swoich potrzeb
+```bash
+npm run dev
+```
