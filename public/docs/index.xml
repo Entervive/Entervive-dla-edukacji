@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumentacja on Entervive Edukacja</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Dokumentacja on Entervive Edukacja</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <copyright>Copyright (c) Entervive</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

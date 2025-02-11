@@ -1,0 +1,22 @@
+[en]
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 10
+  [en.params]
+    languageISO = "EN"
+    languageTag = "en-US"
+    footer = 'Projekt Edukacyjny <a class="text-muted" href="https://entervive.pl/">Entervive</a>'
+    alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
+
+[pl]
+  languageName = "Polski"
+  contentDir = "content/pl"
+  weight = 15
+
+  [pl.params]
+    languageISO = "PL"
+    languageTag = "pl-PL"
+    titleAddition = "Nowoczesna dokumentacja techniczna"
+    title = "Entervive Edukacja"
+    description = "Entervive dla Edukacji - platforma hostingowa i dokumentacyjna dla nauczycieli oferująca bezpieczne rozwiązania IT w edukacji."
+    footer = 'Projekt Edukacyjny <a class="text-muted" href="https://entervive.pl/">Entervive</a>'

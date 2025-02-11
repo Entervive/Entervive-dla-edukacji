@@ -1,0 +1,127 @@
+// Kolory
+$primary: #3b82f6;
+$secondary: #6c757d;
+$success: #10b981;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #212529;
+
+.step-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.cta-section {
+  .btn-outline-light:hover {
+    color: $primary !important;
+    border-color: $primary;
+  }
+}
+
+// Tryb ciemny
+[data-bs-theme="dark"] {
+  .mission-section, .why-section {
+    background: $dark;
+
+    .card {
+      background: lighten($dark, 5%);
+      color: $light;
+    }
+  }
+
+  .mess {
+    color: white;
+  }
+
+  .cta-section {
+    background: darken($primary, 15%);
+  }
+}
+
+// Responsywność
+@media (max-width: 768px) {
+
+  .step-item {
+    margin-bottom: 1.5rem;
+  }
+
+  .cta-section .btn {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+
+// W assets/scss/custom.scss
+$purple: #7C3AED;
+$purple-light: #C4B5FD;
+$purple-dark: #5B21B6;
+
+.mission-section {
+  background: linear-gradient(135deg, #F5F3FF 0%, #EDE9FE 100%);
+
+  .mission-content {
+    background: white;
+    border: 3px solid $purple-light;
+
+    h2 { color: $purple-dark; }
+
+    .border-purple { border-color: $purple-light !important; }
+  }
+}
+
+[data-bs-theme="dark"] {
+  .mission-section {
+    background: #1F1B24;
+
+    .mission-content {
+      background: #2D2635;
+      border-color: $purple-dark;
+      color: #E0E0E0;
+
+      h2 { color: $purple-light !important; }
+      .border-purple { border-color: $purple-dark !important; }
+
+      .text-muted { color: #A0A0A0 !important; }
+    }
+  }
+
+  .cta-section {
+    color: white;
+  }
+
+  .package-section {
+    .card {
+      background: #2D2635;
+      color: #E0E0E0;
+
+      a:hover {
+        color: $purple-light !important;
+      }
+    }
+  }
+}
+
+.text-purple { color: $purple !important; }
+
+.package-section {
+  .card {
+    transition: transform 0.3s;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+
+    a {
+      text-decoration: none;
+      &:hover {
+        color: $purple-dark !important;
+      }
+    }
+  }
+}

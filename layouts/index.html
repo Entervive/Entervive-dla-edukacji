@@ -1,0 +1,230 @@
+{{ define "main" }}
+<section class="hero-section">
+  <div class="container py-5">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-8">
+        <h1 class="display-4 fw-bold mb-4">{{ .Title }}</h1>
+        <p class="lead mb-4">{{ .Params.lead | safeHTML }}</p>
+        <a href="#misja" class="btn btn-primary btn-lg px-5" style="background-color: #5B21B6; color: white; border: none;">Dowiedz się więcej</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+<section class="mission-section py-5 bg-light" id="misja">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="mission-content shadow-lg rounded-4 p-4 p-md-5">
+          <h2 class="display-4 text-center mb-5">Nasza Misja</h2>
+
+          <div class="mission-text">
+            <div class="d-flex gap-4 mb-4">
+              <i class="bi bi-quote text-purple fs-1"></i>
+              <p class="mb-0 lead">"Wierzę, że nauczyciele powinni skupiać się na uczeniu, a nie na technologiach. Dlatego stworzyłem Entervive – aby każdy nauczyciel mógł mieć profesjonalne narzędzia za symboliczną cenę."</p>
+            </div>
+
+            <p class="mb-4">Jako uczeń technikum i właściciel jednoosobowej działalności, wiem, jak ważne jest wsparcie techniczne w edukacji. Dlatego oferuję kompleksowe rozwiązanie, które obejmuje:</p>
+
+            <div class="row g-4 mb-4" style="display: flex; justify-content: center;">
+              <div class="col-md-6">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-globe text-purple fs-4"></i>
+                  <div>
+                    <p class="mb-0 fw-bold">Stronę internetową</p>
+                    <small class="text-muted">Z subdomeną *.entervive.pl lub własną domeną</small>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="d-flex gap-3">
+                  <i class="bi bi-envelope text-purple fs-4"></i>
+                  <div>
+                    <p class="mb-0 fw-bold">Skrzynkę e-mail</p>
+                    <small class="text-muted">Z adresem @edu.entervive.pl</small>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <p class="mb-4">Wszystko to za jedyne 20 zł rocznie – koszt utrzymania serwerów, bez ukrytych opłat.</p>
+
+            <div class="text-center">
+              <a href="#pakiet" class="btn btn-purple">
+                <i class="bi bi-arrow-up me-2"></i>Zobacz pełną ofertę
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="package-section py-5">
+  <div class="container">
+    <h2 class="text-center mb-5 display-5">Co otrzymujesz?</h2>
+
+    <div class="row g-4 justify-content-center">
+      <div class="col-md-6 col-lg-4">
+        <div class="card h-100 shadow">
+          <div class="card-body text-center p-4">
+            <i class="bi bi-globe fs-1 text-purple mb-3"></i>
+            <h3 class="h5 mb-3">Strona WWW</h3>
+            <ul class="list-unstyled">
+              <li class="mb-3">
+                <i class="bi bi-check2 text-success me-2"></i>
+                Subdomena *.entervive.pl
+              </li>
+              <li class="mb-3">
+                <i class="bi bi-shield-lock text-purple me-2"></i>
+                Certyfikat SSL
+              </li>
+              <li class="mb-3">
+                <i class="bi bi-tools text-purple me-2"></i>
+                Konfiguracja krok-po-kroku
+              </li>
+              <li>
+                <a href="#misja" class="text-purple small">
+                  <i class="bi bi-arrow-right me-2"></i>Dowiedz się więcej
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-4">
+        <div class="card h-100 shadow">
+          <div class="card-body text-center p-4">
+            <i class="bi bi-envelope fs-1 text-purple mb-3"></i>
+            <h3 class="h5 mb-3">Poczta e-mail</h3>
+            <ul class="list-unstyled">
+              <li class="mb-3">
+                <i class="bi bi-check2 text-success me-2"></i>
+                Adres @edu.entervive.pl
+              </li>
+              <li class="mb-3">
+                <i class="bi bi-funnel text-purple me-2"></i>
+                Filtry antyspamowe
+              </li>
+              <li class="mb-3">
+                <i class="bi bi-phone text-purple me-2"></i>
+                Dostęp przez aplikacje
+              </li>
+              <li>
+                <a href="#misja" class="text-purple small">
+                  <i class="bi bi-arrow-right me-2"></i>Więcej szczegółów
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-4">
+        <div class="card h-100 shadow">
+          <div class="card-body text-center p-4">
+            <i class="bi bi-headset fs-1 text-purple mb-3"></i>
+            <h3 class="h5 mb-3">Wsparcie</h3>
+            <ul class="list-unstyled">
+              <li class="mb-3">
+                <i class="bi bi-check2 text-success me-2"></i>
+                Pomoc przez Messengera/email
+              </li>
+              <li class="mb-3">
+                <i class="bi bi-file-text text-purple me-2"></i>
+                Dokumentacja krok-po-kroku
+              </li>
+              <li class="mb-3">
+                <i class="bi bi-clock text-purple me-2"></i>
+                Odpowiedź w ciągu 24 godzin
+              </li>
+              <li>
+                <a href="#misja" class="text-purple small">
+                  <i class="bi bi-arrow-right me-2"></i>Poznaj naszą misję
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="why-section py-5 bg-light">
+  <div class="container">
+    <h2 class="text-center mb-5 display-5">Dlaczego my?</h2>
+    <div class="row g-4 justify-content-center">
+      <div class="col-lg-6">
+        <div class="card h-100 shadow">
+          <div class="card-body text-center p-4">
+            <i class="bi bi-heart-half fs-1 text-danger mb-3"></i>
+            <h3 class="h4">Z pasji do technologii</h3>
+            <p class="mb-0">Rozwijam ten projekt po godzinach, aby wspierać edukację. Cały dochód jest reinwestowany w utrzymanie serwerów.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card h-100 shadow">
+          <div class="card-body text-center p-4">
+            <i class="bi bi-rocket-takeoff fs-1 text-purple mb-3"></i>
+            <h3 class="h4">Nasze zalety</h3>
+            <div class="d-flex flex-column gap-3">
+              <div><i class="bi bi-cash me-2"></i>Bez ukrytych kosztów</div>
+              <div><i class="bi bi-speedometer2 me-2"></i>Szybka pomoc</div>
+              <div><i class="bi bi-person-fill me-2"></i>Inwidualne podejście</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+<section class="cta-section py-5 bg-primary text-white">
+  <div class="container text-center">
+    <h2 class="mb-4">Jak zacząć?</h2>
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="steps mb-5">
+          <div class="row g-4 justify-content-center">
+            <div class="col-4 col-md-3">
+              <div class="step-item text-center">
+                <div class="step-icon bg-white text-purple mx-auto">1</div>
+                <p class="mt-2 mb-0">Kontakt</p>
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="step-item text-center">
+                <div class="step-icon bg-white text-purple mx-auto">2</div>
+                <p class="mt-2 mb-0">Konfiguracja</p>
+              </div>
+            </div>
+            <div class="col-4 col-md-3">
+              <div class="step-item text-center">
+                <div class="step-icon bg-white text-purple mx-auto">3</div>
+                <p class="mt-2 mb-0">Gotowe!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="d-flex flex-column flex-md-row gap-3 justify-content-center">
+          <a href="mailto:kontakt@entervive.pl" class="btn btn-light btn-lg px-5">
+            <i class="bi bi-envelope me-2"></i>Email
+          </a>
+          <a href="https://m.me/entervive" class="mess btn btn-outline-light btn-lg px-5">
+            <i class="bi bi-messenger me-2"></i>Messenger
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
