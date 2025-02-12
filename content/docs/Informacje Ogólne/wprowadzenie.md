@@ -24,12 +24,12 @@ Entervive dla edukacji umożliwia nauczycielom dostęp do profesjonalnych rozwi�
 {{< card-grid >}}
 {{< card title="Podstawy Ghostly CMS" icon="outline/book" color="yellow" >}}
 
-- [Tworzenie wpisów](/docs/ghostly-cms/tworzenie-wpisow/)
-- [Zarządzanie kategoriami](/docs/ghostly-cms/kategorie/)
-- [Modyfikacja nawigacji](/docs/ghostly-cms/nawigacja/)
+- [Tworzenie wpisów](/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/)
+- [Zarządzanie kategoriami](/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/)
+- [Modyfikacja nawigacji](/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/)
 
 {{< /card >}}
-{{< card title="Podstawy WordPress (Kadence)" icon="outline/puzzle" color="purple" >}}
+{{< card title="Podstawy WordPress" icon="outline/puzzle" color="purple" >}}
 
 - [Tworzenie wpisów](/docs/wordpress/tworzenie-wpisow/)
 - [Zarządzanie kategoriami](/docs/wordpress/kategorie/)
@@ -49,7 +49,7 @@ Entervive dla edukacji umożliwia nauczycielom dostęp do profesjonalnych rozwi�
 {{< card title="Inne zasoby" icon="outline/books" color="red" >}}
 
 - [Informacje ogólne](/docs/informacje-ogólne/)
-- [Jak zarejestrować stronę?](docs/informacje-ogólne/jak-zarejestrować-się-w-ramach-programu/)
+- [Jak zarejestrować stronę?](/docs/informacje-ogólne/jak-zarejestrować-się-w-ramach-programu/)
 - [Kontakt i FAQ](/docs/informacje-ogólne/kontakt-i-faq/)
 
 {{< /card >}}

@@ -7,6 +7,8 @@ lastmod: 2025-02-11T16:06:50+02:00
 draft: false
 weight: 300
 toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "WordPress Kadence - Entervive Edu"
   description: "Dowiedz się, jak korzystać z WordPressa na motywie Kadence. Tworzenie wpisów, kategorie i najlepsze wtyczki dla nauczycieli."

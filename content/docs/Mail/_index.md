@@ -7,6 +7,8 @@ lastmod: 2025-02-11T16:06:50+02:00
 draft: false
 weight: 400
 toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "Mail - Entervive Edu"
   description: "Instrukcje dotyczące logowania, konfiguracji podpisu i obsługi SOGo w Entervive Edu."

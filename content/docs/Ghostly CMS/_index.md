@@ -7,6 +7,8 @@ lastmod: 2025-02-11T16:06:50+02:00
 draft: false
 weight: 200
 toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "Ghostly CMS - Entervive Edu"
   description: "Kompleksowy przewodnik po CMS Ghostly. Twórz wpisy, edytuj kategorie i personalizuj swoją stronę."

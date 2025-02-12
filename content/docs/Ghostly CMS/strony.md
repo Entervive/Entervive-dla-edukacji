@@ -31,7 +31,7 @@ W menu po lewej stronie znajdź opcję **"Pages"**, gdzie zarządzasz wszystkimi
 
 Na stronie "Pages" znajdziesz przycisk **"New page"**. Kliknij go, aby rozpocząć tworzenie.
 
-## Krok 4: Wypełnij formularz tworzenia strony
+## Krok 4: Stwórz swoją stronę
 
 Tworzenie strony jest niemal identyczne jak tworzenie wpisu. Przypuszczam, że jesteś już dobrze zaznajomiony z tym edytorem.
 

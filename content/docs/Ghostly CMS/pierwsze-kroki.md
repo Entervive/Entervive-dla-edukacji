@@ -21,8 +21,7 @@ Witaj w Ghostly CMS! Ten przewodnik pomoże Ci zrozumieć podstawy działania pa
 
 ## Krok 1: Logowanie do panelu administracyjnego
 
-Najpierw zaloguj się do panelu administracyjnego przy użyciu danych logowania, które otrzymałeś.
-Wejdź na swój adress z zakończeniem /ghost. Przkład ghostly.entervive.pl/ghost.
+Najpierw zaloguj się do panelu administracyjnego, używając danych logowania, które otrzymałeś. Otwórz przeglądarkę i wpisz adres swojej strony z końcówką /ghost. Przykładowo: ghostly.entervive.pl/ghost.
 
 {{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Logowanie.mp4" >}}
 

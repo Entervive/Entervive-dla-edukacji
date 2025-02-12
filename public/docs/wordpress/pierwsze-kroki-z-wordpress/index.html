@@ -1,0 +1,687 @@
+<!doctype html>
+<html lang="pl" data-bs-theme="auto">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="preload" href="http://localhost:1313/fonts/vendor/jost/jost-v4-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="http://localhost:1313/fonts/vendor/jost/jost-v4-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="http://localhost:1313/fonts/vendor/jost/jost-v4-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+<script 
+  src="/js/color-mode.f14b3e296de1d0b69e75af684b62a4a912a2cadab04e36123407cd8388204f1d.js"
+  integrity="sha256-8Us&#43;KW3h0Laeda9oS2KkqRKiytqwTjYSNAfNg4ggTx0=">
+</script>
+
+
+<link rel="stylesheet" href="/main.c62012c610412632d711d481746147e6e2ff809681ccb7980f27c528a3a32d138b3a607901f41b0da164097a0664582992e2b47c5ae115d87bea37d241902ef8.css" integrity="sha512-xiASxhBBJjLXEdSBdGFH5uL/gJaBzLeYDyfFKKOjLROLOmB5AfQbDaFkCXoGZFgpkuK0fFrhFdh76jfSQZAu&#43;A==" crossorigin="anonymous">
+
+<noscript><style>img.lazyload { display: none; }</style></noscript><base href="http://localhost:1313/docs/wordpress/pierwsze-kroki-z-wordpress/">
+
+  <link rel="canonical" href="https://entervive.edu/docs/wordpress/pierwsze-kroki">
+
+
+<title>Pierwsze kroki z WordPress - Entervive dla Edukacji</title>
+<meta name="description" content="Dowiedz się, jak rozpocząć pracę z WordPress na motywie Kadence. Przewodnik dla nauczycieli.">
+
+    
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    
+      <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    
+      <link
+        rel="apple-touch-icon"
+        href="/apple-touch-icon.png"
+        sizes="180x180"
+        type="image/png"
+      >
+      <link
+        rel="icon"
+        href="/favicon-192x192.png"
+        sizes="192x192"
+        type="image/png"
+      >
+      <link
+        rel="icon"
+        href="/favicon-512x512.png"
+        sizes="512x512"
+        type="image/png"
+      >
+<link rel="manifest" href="/manifest.webmanifest">
+
+<meta property="og:url" content="http://localhost:1313/docs/wordpress/pierwsze-kroki-z-wordpress/">
+  <meta property="og:site_name" content="Entervive Edukacja">
+  <meta property="og:title" content="Pierwsze kroki z WordPress">
+  <meta property="og:description" content="Przewodnik wprowadzający do WordPressa na motywie Kadence, przeznaczony dla nauczycieli.">
+  <meta property="og:locale" content="pl">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="docs">
+    <meta property="article:published_time" content="2025-02-11T16:06:50+02:00">
+    <meta property="article:modified_time" content="2025-02-11T16:06:50+02:00">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Pierwsze kroki z WordPress">
+  <meta name="twitter:description" content="Przewodnik wprowadzający do WordPressa na motywie Kadence, przeznaczony dla nauczycieli.">
+      <meta name="twitter:site" content="@getdoks">
+
+    
+    
+    <script type="application/ld+json">
+  {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/",
+       "name": "Entervive Dla Edukacji",
+       "position": 1
+     },
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/docs/",
+       "name": "Entervive Dla Edukacji – Centrum Pomocy",
+       "position": 2
+     },
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/docs/wordpress/",
+       "name": "Word Press",
+       "position": 3
+     },
+     {
+       "@type": "ListItem",
+       "name": "Pierwsze Kroki Z Word Press",
+       "position": 4
+     }
+   ]
+ }
+</script>
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+
+</head>
+
+  
+  <body class="single section docs" data-bs-spy="scroll" data-bs-target="#toc" data-bs-root-margin="0px 0px -60%" data-bs-smooth-scroll="true" tabindex="0">
+    <div class="sticky-top">
+<header class="navbar navbar-expand-lg">
+  <div class="container-lg">
+  
+    <a class="navbar-brand me-auto me-lg-3" href="/">Entervive Edukacja</a>
+
+    
+    
+    <button type="button" id="searchToggleMobile" class="btn btn-link nav-link mx-2 d-lg-none" aria-label="Search website">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <circle cx="10" cy="10" r="7"></circle>
+        <line x1="21" y1="21" x2="15" y2="15"></line>
+      </svg>
+    </button>
+    
+    <button class="btn btn-link d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavSection" aria-controls="offcanvasNavSection" aria-label="Open section navigation menu">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-dots-vertical" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M12 12m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
+        <path d="M12 19m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
+        <path d="M12 5m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"></path>
+      </svg>
+    </button>
+    <div class="offcanvas offcanvas-start d-lg-none" tabindex="-1" id="offcanvasNavSection" aria-labelledby="offcanvasNavSectionLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavSectionLabel">Docs</h5>
+        <button type="button" class="btn btn-link nav-link p-0 ms-auto" data-bs-dismiss="offcanvas" aria-label="Close">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M18 6l-12 12"></path>
+            <path d="M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="offcanvas-body">
+        <aside class="doks-sidebar mt-n3">
+          <nav id="doks-docs-nav" aria-label="Tertiary navigation">
+            
+  
+    
+<nav class="section-nav docs-links">
+  <ul class="list-unstyled">
+
+  <li>
+    <details open>
+      <summary>Informacje Ogólne</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/">Entervive dla Edukacji</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/misja-i-wprowadzenie/">Misja i Wprowadzenie</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/jak-zarejestrowa%C4%87-si%C4%99-w-ramach-programu/">Jak zarejestrować się w ramach programu?</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/jaki-cms-wybra%C4%87/">Jaki CMS wybrać?</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/">Podstawy bezpieczeństwa w sieci</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/">Dostęp do wzorów dokumentów</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/kontakt-i-faq/">Kontakt i FAQ</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>Ghostly CMS</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li>
+      <a href="/docs/ghostly-cms/pierwsze-kroki-z-ghostly-cms/">Pierwsze kroki z Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/">Tworzenie nowego wpisu w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/">Tworzenie nowej kategorii w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/przypisywanie-kategorii-do-wpisu-w-ghostly-cms/">Przypisywanie kategorii do wpisu w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/modyfikowanie-wpisu-w-ghostly-cms/">Modyfikowanie wpisu w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/">Modyfikowanie nawigacji w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/dodawanie-nowych-stron-w-ghostly-cms/">Dodawanie nowych stron w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/ukrywanie-strony-w%C5%82%C4%85czanie-trybu-private-w-ghostly-cms/">Ukrywanie strony (Włączanie trybu private) w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/">Podstawy SEO w Ghostly CMS</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details open>
+      <summary>WordPress</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li class="active" >
+      <a aria-current="page" href="/docs/wordpress/pierwsze-kroki-z-wordpress/">Pierwsze kroki z WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/tworzenie-nowego-wpisu-w-wordpress/">Tworzenie nowego wpisu w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/tworzenie-nowej-kategorii-w-wordpress/">Tworzenie nowej kategorii w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/przypisywanie-kategorii-do-wpisu-w-wordpress/">Przypisywanie kategorii do wpisu w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/modyfikowanie-wpisu-w-wordpress/">Modyfikowanie wpisu w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/modyfikowanie-nawigacji-w-wordpress/">Modyfikowanie nawigacji w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/podstawy-seo-w-wordpress/">Podstawy SEO w WordPress</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+      <a href="/docs/mail/">Mail</a>
+  </li>
+  </ul>
+</nav>
+
+  
+
+          </nav>
+        </aside>
+      </div>
+    </div>
+    
+    <button class="btn btn-link nav-link mx-2 order-3 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavMain" aria-controls="offcanvasNavMain" aria-label="Open main navigation menu">
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-menu" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <line x1="4" y1="8" x2="20" y2="8"></line>
+        <line x1="4" y1="16" x2="20" y2="16"></line>
+      </svg>
+    </button>
+
+    
+    <div class="offcanvas offcanvas-end h-auto" tabindex="-1" id="offcanvasNavMain" aria-labelledby="offcanvasNavMainLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavMainLabel">Entervive Edukacja</h5>
+        <button type="button" class="btn btn-link nav-link p-0 ms-auto" data-bs-dismiss="offcanvas" aria-label="Close">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-x" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M18 6l-12 12"></path>
+            <path d="M6 6l12 12"></path>
+         </svg>
+        </button>
+      </div>
+      
+      <div class="offcanvas-body d-flex flex-column flex-lg-row justify-content-between">
+        <ul class="navbar-nav flex-grow-1"><li class="nav-item">
+                <a class="nav-link" href="http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/">Dokumentacja</a>
+              </li>
+            </ul>
+
+        
+        
+        <button type="button" id="searchToggleDesktop" class="btn btn-link nav-link p-2 d-none d-lg-block" aria-label="Search website">
+          <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <circle cx="10" cy="10" r="7"></circle>
+            <line x1="21" y1="21" x2="15" y2="15"></line>
+          </svg>
+        </button>
+        
+        
+        
+        <button id="buttonColorMode" class="btn btn-link mx-auto nav-link p-0 ms-lg-2 me-lg-1" type="button" aria-label="Toggle theme">
+          <svg data-bs-theme-value="dark" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
+          </svg>
+          <svg data-bs-theme-value="light" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-sun" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M12 12m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0m-5 0h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7"></path>
+          </svg>
+        </button>
+        
+        
+        </div>
+    </div>
+
+    
+    </div>
+</header>
+</div>
+
+<div class="modal" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-fullscreen-md-down">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5 visually-hidden" id="searchModalLabel"></h1>
+        <button type="button" class="btn-close visually-hidden" data-bs-dismiss="modal" aria-label="Close"></button>
+        <div class="search-input flex-grow-1 d-none">
+          <form id="search-form" class="search-form" action="#" method="post" accept-charset="UTF-8" role="search">
+            <label for="query" class="visually-hidden"></label>
+            <div class="d-flex">
+              <input type="search" id="query" name="query" class="search-text form-control form-control-lg" placeholder="" aria-label="" maxlength="128" autocomplete="off">
+              <button type="button" class="btn btn-link text-decoration-none px-0 ms-3 d-md-none" data-bs-dismiss="modal" aria-label="Close">Cancel</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="modal-body">
+        <p class="search-loading status message d-none mt-3 text-center"></p>
+        <p class="search-no-recent message d-none mt-3 text-center"></p>
+        <p class="search-no-results message d-none mt-3 text-center"> for "<strong><span class="query-no-results">Query here</span></strong>"</p>
+        <div id="searchResults" class="search-results"></div>
+        <template>
+          <article class="search-result list-view">
+            <div class="card my-3">
+              <div class="card-body">
+                <header>
+                  <h2 class="h5 title title-submitted mb-0"><a class="stretched-link text-decoration-none text-reset" href="#">Title here</a></h2>
+                  <div class="submitted d-none"><time class="created-date">Date here</time></div>
+                </header>
+                <div class="content">Summary here</div>
+              </div>
+            </div>
+          </article>
+        </template>
+      </div>
+      <div class="modal-footer">
+        <ul class="list-inline me-auto d-none d-md-block">
+          <li class="list-inline-item"><kbd class="me-2"><svg width="15" height="15" aria-label="Enter key" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M12 3.53088v3c0 1-1 2-2 2H4M7 11.53088l-3-3 3-3"></path></g></svg></kbd><span class="DocSearch-Label">to select</span></li>
+          <li class="list-inline-item"><kbd class="me-2"><svg width="15" height="15" aria-label="Arrow down" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M7.5 3.5v8M10.5 8.5l-3 3-3-3"></path></g></svg></kbd><kbd class="me-2"><svg width="15" height="15" aria-label="Arrow up" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M7.5 11.5v-8M10.5 6.5l-3-3-3 3"></path></g></svg></kbd><span class="DocSearch-Label">to navigate</span></li>
+          <li class="list-inline-item"><kbd class="me-2"><svg width="15" height="15" aria-label="Escape key" role="img"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"><path d="M13.6167 8.936c-.1065.3583-.6883.962-1.4875.962-.7993 0-1.653-.9165-1.653-2.1258v-.5678c0-1.2548.7896-2.1016 1.653-2.1016.8634 0 1.3601.4778 1.4875 1.0724M9 6c-.1352-.4735-.7506-.9219-1.46-.8972-.7092.0246-1.344.57-1.344 1.2166s.4198.8812 1.3445.9805C8.465 7.3992 8.968 7.9337 9 8.5c.032.5663-.454 1.398-1.4595 1.398C6.6593 9.898 6 9 5.963 8.4851m-1.4748.5368c-.2635.5941-.8099.876-1.5443.876s-1.7073-.6248-1.7073-2.204v-.4603c0-1.0416.721-2.131 1.7073-2.131.9864 0 1.6425 1.031 1.5443 2.2492h-2.956"></path></g></svg></kbd><span class="DocSearch-Label">to close</span></li>
+        </ul>
+        <p class="d-md-none">Search by <a class="text-decoration-none" href="https://github.com/nextapps-de/flexsearch">FlexSearch</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <div class="wrap container-lg" role="document">
+      <div class="content">
+      
+        
+	<div class="row flex-xl-nowrap">
+		<div class="col-lg-5 col-xl-4 docs-sidebar d-none d-lg-block">
+			
+  
+    
+<nav class="section-nav docs-links">
+  <ul class="list-unstyled">
+
+  <li>
+    <details open>
+      <summary>Informacje Ogólne</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/">Entervive dla Edukacji</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/misja-i-wprowadzenie/">Misja i Wprowadzenie</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/jak-zarejestrowa%C4%87-si%C4%99-w-ramach-programu/">Jak zarejestrować się w ramach programu?</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/jaki-cms-wybra%C4%87/">Jaki CMS wybrać?</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/">Podstawy bezpieczeństwa w sieci</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/">Dostęp do wzorów dokumentów</a>
+  </li>
+
+  <li>
+      <a href="/docs/informacje-og%C3%B3lne/kontakt-i-faq/">Kontakt i FAQ</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>Ghostly CMS</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li>
+      <a href="/docs/ghostly-cms/pierwsze-kroki-z-ghostly-cms/">Pierwsze kroki z Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/">Tworzenie nowego wpisu w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/">Tworzenie nowej kategorii w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/przypisywanie-kategorii-do-wpisu-w-ghostly-cms/">Przypisywanie kategorii do wpisu w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/modyfikowanie-wpisu-w-ghostly-cms/">Modyfikowanie wpisu w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/">Modyfikowanie nawigacji w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/dodawanie-nowych-stron-w-ghostly-cms/">Dodawanie nowych stron w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/ukrywanie-strony-w%C5%82%C4%85czanie-trybu-private-w-ghostly-cms/">Ukrywanie strony (Włączanie trybu private) w Ghostly CMS</a>
+  </li>
+
+  <li>
+      <a href="/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/">Podstawy SEO w Ghostly CMS</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details open>
+      <summary>WordPress</summary>
+      <ul class="list-unstyled list-nested">
+
+  <li class="active" >
+      <a aria-current="page" href="/docs/wordpress/pierwsze-kroki-z-wordpress/">Pierwsze kroki z WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/tworzenie-nowego-wpisu-w-wordpress/">Tworzenie nowego wpisu w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/tworzenie-nowej-kategorii-w-wordpress/">Tworzenie nowej kategorii w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/przypisywanie-kategorii-do-wpisu-w-wordpress/">Przypisywanie kategorii do wpisu w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/modyfikowanie-wpisu-w-wordpress/">Modyfikowanie wpisu w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/modyfikowanie-nawigacji-w-wordpress/">Modyfikowanie nawigacji w WordPress</a>
+  </li>
+
+  <li>
+      <a href="/docs/wordpress/podstawy-seo-w-wordpress/">Podstawy SEO w WordPress</a>
+  </li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+      <a href="/docs/mail/">Mail</a>
+  </li>
+  </ul>
+</nav>
+
+  
+
+		</div>
+		
+		<nav class="docs-toc d-none d-xl-block col-xl-3" aria-label="Secondary navigation">
+			<div class="page-links">
+  <h3></h3>
+    <nav id="toc">
+  <ul>
+    <li><a href="#wprowadzenie">Wprowadzenie</a></li>
+    <li><a href="#krok-1-logowanie-do-panelu-administracyjnego">Krok 1: Logowanie do panelu administracyjnego</a></li>
+    <li><a href="#krok-2-zapoznanie-się-z-dashboardem">Krok 2: Zapoznanie się z dashboardem</a></li>
+    <li><a href="#krok-3-poruszanie-się-po-panelu">Krok 3: Poruszanie się po panelu</a></li>
+    <li><a href="#poradnik-wideo">Poradnik wideo</a></li>
+  </ul>
+</nav>
+</div>
+
+		</nav>
+		<main class="docs-content col-lg-11 col-xl-9">
+		
+				<nav aria-label="breadcrumb">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="/"></a></li>
+<li class="breadcrumb-item"><a href="/docs/">Docs</a></li>
+<li class="breadcrumb-item"><a href="/docs/wordpress/">WordPress</a></li>
+<li class="breadcrumb-item active" aria-current="page">Pierwsze kroki z WordPress</li>
+					</ol>
+				</nav>
+			
+			<h1>Pierwsze kroki z WordPress</h1>
+			
+			<nav class="toc-mobile d-xl-none" aria-label="Quaternary navigation">
+				<details>
+    <summary></summary>
+    <div class="page-links">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#wprowadzenie">Wprowadzenie</a></li>
+    <li><a href="#krok-1-logowanie-do-panelu-administracyjnego">Krok 1: Logowanie do panelu administracyjnego</a></li>
+    <li><a href="#krok-2-zapoznanie-się-z-dashboardem">Krok 2: Zapoznanie się z dashboardem</a></li>
+    <li><a href="#krok-3-poruszanie-się-po-panelu">Krok 3: Poruszanie się po panelu</a></li>
+    <li><a href="#poradnik-wideo">Poradnik wideo</a></li>
+  </ul>
+</nav>
+    </div>
+  </details>
+
+			</nav>
+			<h2 id="wprowadzenie">Wprowadzenie<a href="#wprowadzenie" class="anchor" aria-hidden="true">#</a> </h2>
+<p>WordPress to jeden z najpopularniejszych systemów zarządzania treścią, który umożliwia łatwe tworzenie i edytowanie stron internetowych. W naszym przypadku korzystasz z motywu Kadence, dzięki któremu Twoja strona automatycznie wyświetla wpisy bez potrzeby tworzenia osobnych stron statycznych. Pomocnicze wideo do tego przewodnika znajduje się na dole strony.</p>
+<h2 id="krok-1-logowanie-do-panelu-administracyjnego">Krok 1: Logowanie do panelu administracyjnego<a href="#krok-1-logowanie-do-panelu-administracyjnego" class="anchor" aria-hidden="true">#</a> </h2>
+<p>Aby rozpocząć, zaloguj się do panelu administracyjnego WordPressa przy użyciu danych, które otrzymałeś. Do panelu administratora można dostać się poprzez dodanie do adresu na końcu /wp-admin. Przykładowo: wordpress.entervive.pl/wp-admin</p>
+<h2 id="krok-2-zapoznanie-się-z-dashboardem">Krok 2: Zapoznanie się z dashboardem<a href="#krok-2-zapoznanie-się-z-dashboardem" class="anchor" aria-hidden="true">#</a> </h2>
+<p>Po zalogowaniu zobaczysz główny panel WordPressa, gdzie znajdziesz:</p>
+<ul>
+<li><strong>Wpisy</strong> – miejsce do tworzenia i zarządzania wpisami.</li>
+<li><strong>Kategorie</strong> – sekcja do organizowania treści.</li>
+<li><strong>Wygląd</strong> – opcje personalizacji motywu.</li>
+<li><strong>Wtyczki</strong> – dodatkowe funkcje, które możesz aktywować.</li>
+</ul>
+<h2 id="krok-3-poruszanie-się-po-panelu">Krok 3: Poruszanie się po panelu<a href="#krok-3-poruszanie-się-po-panelu" class="anchor" aria-hidden="true">#</a> </h2>
+<p>Przejrzyj menu po lewej stronie, aby zapoznać się z podstawowymi funkcjami. Kliknij różne opcje, aby zobaczyć, jak są zorganizowane.</p>
+<h2 id="poradnik-wideo">Poradnik wideo<a href="#poradnik-wideo" class="anchor" aria-hidden="true">#</a> </h2>
+
+<video controls style="width: 100%;">
+  <source src="/docs/wordpress/filmy/pierwszeKroki.mp4" type="video/mp4">
+  Twoja przeglądarka nie obsługuje tagu video.
+</video>
+
+<hr>
+<p><em>Entervive dla Edukacji – rozpocznij pracę z WordPress i odkryj nowe możliwości!</em></p>
+
+			<div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
+				</div>
+			<div class="page-nav d-flex flex-column flex-sm-row">
+	
+	<div class="card w-100">
+			<div class="card-body d-flex">
+				<div class="d-flex flex-column justify-content-center">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-arrow-left" width="20" height="20" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+						<path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+						<path d="M5 12l14 0"></path>
+						<path d="M5 12l6 6"></path>
+						<path d="M5 12l6 -6"></path>
+				 	</svg>
+				</div>
+				<div class="d-flex flex-column">
+					<div class="text-body-secondary"></div>
+					<a href="/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/" class="stretched-link text-reset text-decoration-none">Podstawy SEO w Ghostly CMS</a>
+				</div>
+			</div>
+		</div>
+	<div class="m-2"></div>
+	<div class="card text-end w-100">
+			<div class="card-body d-flex justify-content-end">
+				<div class="d-flex flex-column">
+					<div class="text-body-secondary"></div>
+					<a href="/docs/wordpress/tworzenie-nowego-wpisu-w-wordpress/" class="stretched-link text-reset text-decoration-none">Tworzenie nowego wpisu w WordPress</a>
+				</div>
+				<div class="d-flex flex-column justify-content-center">
+					<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-arrow-right" width="20" height="20" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+						<path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+						<path d="M5 12l14 0"></path>
+						<path d="M13 18l6 -6"></path>
+						<path d="M13 6l6 6"></path>
+					</svg>
+				</div>
+			</div>
+		</div>
+	</div>
+
+			
+		</main>
+		
+	</div>
+
+      
+      </div>
+    </div>
+    
+    
+    <footer class="footer text-muted">
+  <div class="container-lg">
+    <div class="row">
+      <div class="col-lg-8 text-center text-lg-start">
+        <ul class="list-inline">
+          <li class="list-inline-item"><a class="text-muted" href="/privacy/">Polityka prywatności</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-8 text-center text-lg-end">
+        <ul class="list-inline">
+          <li class="list-inline-item">Projekt Edukacyjny <a class="text-muted" href="https://entervive.pl/">Entervive</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    
+
+<script async
+  src="/js/app.db7826094800b0318a3fed9d2125683eb5a592c007c20af5c6c90e54b68740a7.js"
+  integrity="sha256-23gmCUgAsDGKP&#43;2dISVoPrWlksAHwgr1xskOVLaHQKc=">
+</script>
+
+
+
+
+
+<script async
+  src="/js/flexsearch.f5ccd5c9fcb1730536551bbcb7385a5c46d2ad164806184dd54a219982ee2c84.js"
+  integrity="sha256-9czVyfyxcwU2VRu8tzhaXEbSrRZIBhhN1UohmYLuLIQ=">
+</script>
+<script async
+  src="/js/search-modal.19d8681c7ab3f0ef428bde58a53831c073a4a4d405dafa3ed47b9063c8929768.js"
+  integrity="sha256-GdhoHHqz8O9Ci95YpTgxwHOkpNQF2vo&#43;1HuQY8iSl2g=">
+</script>
+
+    <div class="d-inline-flex fixed-bottom-right pb-4 pe-4">
+  <button id="toTop" type="button" class="btn btn-primary rounded-circle ms-auto p-2"><span class="visually-hidden">Top</span><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M6 15l6 -6l6 6"></path></svg></button>
+</div>
+
+    
+  </body>
+</html>
