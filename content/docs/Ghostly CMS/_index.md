@@ -12,5 +12,7 @@ seo:
   description: "Kompleksowy przewodnik po CMS Ghostly. Twórz wpisy, edytuj kategorie i personalizuj swoją stronę."
   canonical: "https://entervive.edu/docs/ghostly-cms"
   noindex: false
-  robots: "index, follow" # custom robot tags (optional)
+  robots: "index, follow"
 ---
+
+Wybierz wpis, który chcesz przeczytać

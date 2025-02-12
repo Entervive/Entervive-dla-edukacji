@@ -14,3 +14,5 @@ seo:
   noindex: false
   robots: "index, follow"
 ---
+
+Wybierz wpis, który chcesz przeczytać

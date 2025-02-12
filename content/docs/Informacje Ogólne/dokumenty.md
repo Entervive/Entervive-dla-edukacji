@@ -24,7 +24,7 @@ Poniżej znajdują się gotowe do pobrania wzory dokumentów, które mogą być 
 - {{< download url="/docs/informacje-ogólne/wzory-dokumentow/umowa-hosting.pdf" filename="umowa-hosting.pdf" >}}Wzór umowy na hosting{{</ download >}}
 - {{< download url="/docs/informacje-ogólne/wzory-dokumentow/misja.pdf" filename="misja.pdf" >}}Nasza Misja{{</ download >}}
 - {{< download url="/docs/informacje-ogólne/wzory-dokumentow/rezygnacja.pdf" filename="rezygnacja.pdf" >}}Wzór umowy na rezygnację z usług{{</ download >}}
-- [Polityka Prywatności](/docs/wzory-dokumentow/instrukcja-dodawania.pdf)
+- [Polityka Prywatności](/privacy/)
 
 ### 📥 Jak pobierać dokumenty?
 

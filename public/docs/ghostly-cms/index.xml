@@ -7,7 +7,70 @@
     <generator>Hugo</generator>
     <language>pl</language>
     <copyright>Copyright (c) Entervive</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 16:06:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/ghostly-cms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pierwsze kroki z Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/pierwsze-kroki-z-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/pierwsze-kroki-z-ghostly-cms/</guid>
+      <description>Poznaj podstawowe funkcje Ghostly CMS i naucz się, jak zacząć korzystać z platformy.</description>
+    </item>
+    <item>
+      <title>Tworzenie nowego wpisu w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/</guid>
+      <description>Prosty przewodnik dla nauczycieli, jak utworzyć nowy wpis w Ghostly CMS.</description>
+    </item>
+    <item>
+      <title>Tworzenie nowej kategorii w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/</guid>
+      <description>Prosty przewodnik dla nauczycieli, jak dodać nową kategorię w Ghostly CMS.</description>
+    </item>
+    <item>
+      <title>Przypisywanie kategorii do wpisu w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/przypisywanie-kategorii-do-wpisu-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/przypisywanie-kategorii-do-wpisu-w-ghostly-cms/</guid>
+      <description>Naucz się, jak przypisać wpisom odpowiednie kategorie, aby uporządkować treść na swojej stronie.</description>
+    </item>
+    <item>
+      <title>Modyfikowanie wpisu w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/modyfikowanie-wpisu-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/modyfikowanie-wpisu-w-ghostly-cms/</guid>
+      <description>Naucz się, jak zmieniać treść wpisu w Ghostly CMS i wprowadzać niezbędne poprawki.</description>
+    </item>
+    <item>
+      <title>Modyfikowanie nawigacji w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/</guid>
+      <description>Przewodnik dla nauczycieli, jak zmienić ustawienia nawigacji na swojej stronie.</description>
+    </item>
+    <item>
+      <title>Dodawanie nowych stron w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/dodawanie-nowych-stron-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/dodawanie-nowych-stron-w-ghostly-cms/</guid>
+      <description>Dowiedz się, jak dodać nową stronę w Ghostly CMS, by rozszerzyć swoją witrynę edukacyjną.</description>
+    </item>
+    <item>
+      <title>Ukrywanie strony (Włączanie trybu private) w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/ukrywanie-strony-w%C5%82%C4%85czanie-trybu-private-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/ukrywanie-strony-w%C5%82%C4%85czanie-trybu-private-w-ghostly-cms/</guid>
+      <description>Dowiedz się, jak ukryć stronę, aby była dostępna tylko po podaniu hasła.</description>
+    </item>
+    <item>
+      <title>Podstawy SEO w Ghostly CMS</title>
+      <link>http://localhost:1313/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/</link>
+      <pubDate>Tue, 11 Feb 2025 16:06:50 +0200</pubDate>
+      <guid>http://localhost:1313/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/</guid>
+      <description>Dowiedz się, jak zoptymalizować swoją stronę w Ghostly CMS pod kątem wyszukiwarek.</description>
+    </item>
   </channel>
 </rss>

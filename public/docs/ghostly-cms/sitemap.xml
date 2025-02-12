@@ -1,3 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  </urlset>
+  
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/pierwsze-kroki-z-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/przypisywanie-kategorii-do-wpisu-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/modyfikowanie-wpisu-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/dodawanie-nowych-stron-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/ukrywanie-strony-w%C5%82%C4%85czanie-trybu-private-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/</loc>
+      <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>
