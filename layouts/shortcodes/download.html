@@ -1,0 +1,5 @@
+{{- $url := .Get "url" -}}
+{{- $filename := .Get "filename" | default "" -}}
+{{- $text := .Inner | default $filename | default $url -}}
+
+<a class="hugo-shortcodes-download" href="{{ $url | safeURL }}" download="{{ $filename }}">{{ $text | markdownify }}</a>

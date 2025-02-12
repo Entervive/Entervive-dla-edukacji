@@ -49,11 +49,11 @@ Przed zgłoszeniem upewnij się, że masz przygotowane:
 
 Teraz możesz:
 
-- [Wybrać CMS i zapoznać się z jego obsługą](/docs/jaki-cms-wybrac/).
+- [Wybrać CMS i zapoznać się z jego obsługą](/docs/informacje-ogólne/jaki-cms-wybrać/).
 - [Rozpocząć pracę z Ghostly CMS](/docs/ghostly-cms/).
 - [Rozpocząć pracę z WordPress](/docs/wordpress/).
 
-Jeśli masz pytania lub napotkasz problemy, odwiedź sekcję [Kontakt i FAQ](/docs/kontakt/).
+Jeśli masz pytania lub napotkasz problemy, odwiedź sekcję [Kontakt i FAQ](/docs/informacje-ogólne/kontakt-i-faq/).
 
 ---
 

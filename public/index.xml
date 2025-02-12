@@ -10,18 +10,18 @@
     <lastBuildDate>Sat, 01 Feb 2025 20:43:32 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Entervive dla Edukacji</title>
-      <link>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</link>
-      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
-      <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</guid>
-      <description>Zapoznaj się z Entervive dla Edukacji i znajdź szybko potrzebne informacje.</description>
-    </item>
-    <item>
       <title>Example Post</title>
       <link>http://localhost:1313/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
       <guid>http://localhost:1313/blog/example-post/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
+    </item>
+    <item>
+      <title>Entervive dla Edukacji</title>
+      <link>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</link>
+      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
+      <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</guid>
+      <description>Zapoznaj się z Entervive dla Edukacji i znajdź szybko potrzebne informacje.</description>
     </item>
     <item>
       <title>Misja i Wprowadzenie</title>
@@ -50,6 +50,20 @@
       <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
       <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/</guid>
       <description>Poznaj podstawowe zasady ochrony swoich danych i kont online.</description>
+    </item>
+    <item>
+      <title>Dostęp do wzorów dokumentów</title>
+      <link>http://localhost:1313/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/</link>
+      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
+      <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/</guid>
+      <description>Pobierz gotowe wzory dokumentów przydatne w pracy nauczyciela.</description>
+    </item>
+    <item>
+      <title>Kontakt i FAQ</title>
+      <link>http://localhost:1313/docs/informacje-og%C3%B3lne/kontakt-i-faq/</link>
+      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
+      <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/kontakt-i-faq/</guid>
+      <description>Masz pytania? Sprawdź najczęściej zadawane pytania lub skontaktuj się z nami.</description>
     </item>
     <item>
       <title>Polityka Prywatności</title>

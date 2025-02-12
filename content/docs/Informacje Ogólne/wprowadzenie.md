@@ -5,7 +5,7 @@ summary: "Zapoznaj się z Entervive dla Edukacji i znajdź szybko potrzebne info
 date: 2025-02-01T20:43:32+01:00
 lastmod: 2025-02-01T20:43:32+01:00
 draft: false
-weight: 50
+weight: 115
 toc: true
 seo:
   title: "Entervive dla Edukacji"
@@ -48,16 +48,16 @@ Entervive dla edukacji umożliwia nauczycielom dostęp do profesjonalnych rozwi�
 {{< /card >}}
 {{< card title="Inne zasoby" icon="outline/books" color="red" >}}
 
-- [Informacje ogólne](/docs/informacje-ogolne/)
-- [Jak zarejestrować stronę?](/docs/rejestracja/)
-- [Kontakt i FAQ](/docs/kontakt/)
+- [Informacje ogólne](/docs/informacje-ogólne/)
+- [Jak zarejestrować stronę?](docs/informacje-ogólne/jak-zarejestrować-się-w-ramach-programu/)
+- [Kontakt i FAQ](/docs/informacje-ogólne/kontakt-i-faq/)
 
 {{< /card >}}
 {{< /card-grid >}}
 
 ## Potrzebujesz pomocy?
 
-Jeśli masz pytania, zajrzyj do naszej sekcji [FAQ](/docs/kontakt/) lub skontaktuj się z nami.
+Jeśli masz pytania, zajrzyj do naszej sekcji [FAQ](/docs/informacje-ogólne/kontakt-i-faq/) lub skontaktuj się z nami.
 
 ---
 

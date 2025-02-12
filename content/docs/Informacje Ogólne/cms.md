@@ -66,7 +66,7 @@ Najlepszy wybór dla nauczycieli, którzy chcą mieć większą kontrolę nad wy
 | **Ghostly CMS** | Prostota, szybkość, blogowanie    | Blog edukacyjny           |
 | **WordPress**   | Elastyczność, rozbudowane funkcje | Strona z większą kontrolą |
 
-Domyślnie przypisywany jest Ghostly CMS jeśli chcesz wybrać wordpress skontaktuj się z nami w sekcji [Kontakt](/docs/kontakt/)!
+Domyślnie przypisywany jest Ghostly CMS jeśli chcesz wybrać wordpress skontaktuj się z nami w sekcji [Kontakt](/docs/informacje-ogólne/kontakt-i-faq/)!
 
 ---
 

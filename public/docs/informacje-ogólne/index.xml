@@ -44,5 +44,19 @@
       <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/</guid>
       <description>Poznaj podstawowe zasady ochrony swoich danych i kont online.</description>
     </item>
+    <item>
+      <title>Dostęp do wzorów dokumentów</title>
+      <link>http://localhost:1313/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/</link>
+      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
+      <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/</guid>
+      <description>Pobierz gotowe wzory dokumentów przydatne w pracy nauczyciela.</description>
+    </item>
+    <item>
+      <title>Kontakt i FAQ</title>
+      <link>http://localhost:1313/docs/informacje-og%C3%B3lne/kontakt-i-faq/</link>
+      <pubDate>Sat, 01 Feb 2025 20:43:32 +0100</pubDate>
+      <guid>http://localhost:1313/docs/informacje-og%C3%B3lne/kontakt-i-faq/</guid>
+      <description>Masz pytania? Sprawdź najczęściej zadawane pytania lub skontaktuj się z nami.</description>
+    </item>
   </channel>
 </rss>

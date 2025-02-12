@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</loc>
-    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/blog/example-post/</loc>
     <lastmod>2023-09-07T16:27:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -19,6 +14,11 @@
   </url><url>
     <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/</loc>
     <lastmod>2025-02-11T16:06:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/entervive-dla-edukacji/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,6 +38,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/podstawy-bezpiecze%C5%84stwa-w-sieci/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/dost%C4%99p-do-wzor%C3%B3w-dokument%C3%B3w/</loc>
+    <lastmod>2025-02-01T20:43:32+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/docs/informacje-og%C3%B3lne/kontakt-i-faq/</loc>
     <lastmod>2025-02-01T20:43:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

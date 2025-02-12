@@ -30,13 +30,13 @@ Entervive dla Edukacji powstało, aby wspierać nauczycieli w łatwym i szybkim 
 
 Aby rozpocząć swoją przygodę z Entervive dla Edukacji:
 
-1. **Zarejestruj się** – [Instrukcja rejestracji](/docs/rejestracja/)
-2. **Wybierz CMS** – [Porównanie systemów](/docs/jaki-cms-wybrac/)
+1. **Zarejestruj się** – [Instrukcja rejestracji](/docs/informacje-ogólne/jak-zarejestrować-się-w-ramach-programu/)
+2. **Wybierz CMS** – [Porównanie systemów](/docs/informacje-ogólne/jaki-cms-wybrać/)
 3. **Zacznij tworzyć treści** – [Pierwsze kroki z Ghostly CMS](/docs/ghostly-cms/) lub [Podstawy WordPress](/docs/wordpress/)
 
 ## Nasza społeczność
 
-Jesteśmy otwarci na współpracę i rozwój platformy zgodnie z potrzebami nauczycieli. Jeśli masz pomysły na ulepszenia lub chcesz podzielić się swoją opinią, skontaktuj się z nami w sekcji [Kontakt](/docs/kontakt/).
+Jesteśmy otwarci na współpracę i rozwój platformy zgodnie z potrzebami nauczycieli. Jeśli masz pomysły na ulepszenia lub chcesz podzielić się swoją opinią, skontaktuj się z nami w sekcji [Kontakt](/docs/informacje-ogólne/kontakt-i-faq/).
 
 ---
 
