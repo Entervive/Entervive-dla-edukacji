@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Dodawanie nowych stron - Entervive dla Edukacji"
   description: "Instrukcja, jak dodać nową stronę w Ghostly CMS w prosty sposób."
-  canonical: "https://entervive.edu/docs/ghostly-cms/dodawanie-stron"
+  canonical: "https://entervive.edu/docs/ghostly-cms/dodawanie-nowych-stron-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

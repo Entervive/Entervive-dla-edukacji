@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Entervive dla Edukacji"
   description: "Oficjalna dokumentacja Entervive dla Edukacji – wprowadzenie i szybkie linki do kluczowych tematów."
-  canonical: "https://entervive.edu/docs/"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/entervive-dla-edukacji"
   noindex: false
   robots: "index, follow"
 ---

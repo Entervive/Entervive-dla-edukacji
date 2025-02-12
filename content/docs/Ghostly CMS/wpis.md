@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Tworzenie nowego wpisu w Ghostly CMS - Entervive dla Edukacji"
   description: "Dowiedz się, jak w prosty sposób dodać nowy wpis na stronie za pomocą Ghostly CMS."
-  canonical: "https://entervive.edu/docs/ghostly-cms/tworzenie-wpisow"
+  canonical: "https://entervive.edu/docs/ghostly-cms/tworzenie-nowego-wpisu-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

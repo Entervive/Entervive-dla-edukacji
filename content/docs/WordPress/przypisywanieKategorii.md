@@ -10,8 +10,9 @@ toc: true
 seo:
   title: "Przypisywanie kategorii do wpisu w WordPress - Entervive dla Edukacji"
   description: "Instrukcja, jak przypisać kategorie do wpisu w WordPress, aby uporządkować treści i ułatwić nawigację po stronie."
-  canonical: "https://entervive.edu/docs/wordpress/przypisywanie-kategorii"
+  canonical: "https://entervive.edu/docs/wordpress/przypisywanie-kategorii-do-wpisu-w-wordpress"
   noindex: false
+  robots: "index, follow"
 ---
 
 ## Wprowadzenie

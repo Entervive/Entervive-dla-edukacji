@@ -10,8 +10,9 @@ toc: true
 seo:
   title: "Modyfikowanie wpisu w WordPress - Entervive dla Edukacji"
   description: "Instrukcja, jak modyfikować wpis w WordPress, edytować treść i zapisywać zmiany w prosty sposób."
-  canonical: "https://entervive.edu/docs/wordpress/modyfikowanie-wpisu"
+  canonical: "https://entervive.edu/docs/wordpress/modyfikowanie-wpisu-w-wordpress"
   noindex: false
+  robots: "index, follow"
 ---
 
 ## Wprowadzenie

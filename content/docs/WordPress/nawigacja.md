@@ -10,8 +10,9 @@ toc: true
 seo:
   title: "Modyfikowanie nawigacji w WordPress - Entervive dla Edukacji"
   description: "Instrukcja, jak edytować menu nawigacyjne w WordPress, aby dostosować stronę do swoich potrzeb."
-  canonical: "https://entervive.edu/docs/wordpress/modyfikowanie-nawigacji"
+  canonical: "https://entervive.edu/docs/wordpress/modyfikowanie-nawigacji-w-wordpress"
   noindex: false
+  robots: "index, follow"
 ---
 
 ## Wprowadzenie

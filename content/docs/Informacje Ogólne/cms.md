@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Jaki CMS wybrać? - Entervive dla Edukacji"
   description: "Porównanie Ghostly CMS i WordPressa, aby pomóc nauczycielom wybrać najlepszą opcję dla ich strony."
-  canonical: "https://entervive.edu/docs/jaki-cms-wybrac"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/jaki-cms-wybrać"
   noindex: false
   robots: "index, follow"
 ---

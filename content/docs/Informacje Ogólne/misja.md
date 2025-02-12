@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Misja i Wprowadzenie - Entervive dla Edukacji"
   description: "Poznaj misję Entervive dla Edukacji i dowiedz się, jak wspieramy nauczycieli w tworzeniu stron edukacyjnych."
-  canonical: "https://entervive.edu/docs/misja-i-wprowadzenie"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/misja-i-wprowadzenie"
   noindex: false
   robots: "index, follow"
 ---

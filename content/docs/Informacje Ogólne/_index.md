@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Informacje Ogólne - Entervive Edu"
   description: "Dowiedz się, jak zarejestrować się w ramach Entervive Edu, jakie są dostępne dokumenty i jak uzyskać pomoc."
-  canonical: "https://entervive.edu/docs/informacje-ogolne"
+  canonical: "https://entervive.edu/docs/informacje-ogólne"
   noindex: false
   robots: "index, follow"
 ---

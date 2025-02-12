@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Modyfikowanie wpisu - Entervive dla Edukacji"
   description: "Dowiedz się, jak edytować wpis w Ghostly CMS, aby wprowadzić zmiany lub aktualizacje w treści."
-  canonical: "https://entervive.edu/docs/ghostly-cms/modyfikowanie-wpisu"
+  canonical: "https://entervive.edu/docs/ghostly-cms/modyfikowanie-wpisu-w-ghostly-cms"
   noindex: false
   robots: "index, follow"
 ---

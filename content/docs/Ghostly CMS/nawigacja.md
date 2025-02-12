@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Modyfikowanie nawigacji w Ghostly CMS - Entervive dla Edukacji"
   description: "Dowiedz się, jak łatwo edytować menu nawigacyjne w Ghostly CMS, aby dostosować stronę do swoich potrzeb."
-  canonical: "https://entervive.edu/docs/ghostly-cms/modyfikacja-nawigacji"
+  canonical: "https://entervive.edu/docs/ghostly-cms/modyfikowanie-nawigacji-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

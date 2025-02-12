@@ -12,7 +12,9 @@ sidebar:
 seo:
   title: "WordPress Kadence - Entervive Edu"
   description: "Dowiedz się, jak korzystać z WordPressa na motywie Kadence. Tworzenie wpisów, kategorie i najlepsze wtyczki dla nauczycieli."
-  canonical: "https://entervive.edu/docs/wordpress-kadence"
+  canonical: "https://entervive.edu/docs/wordpress"
   noindex: false
-  robots: "index, follow" # custom robot tags (optional)
+  robots: "index, follow"
 ---
+
+Wybierz wpis, który chcesz przeczytać

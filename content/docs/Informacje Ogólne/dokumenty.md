@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Dostęp do wzorów dokumentów - Entervive dla Edukacji"
   description: "Pobierz gotowe wzory dokumentów przydatne w pracy nauczyciela i administracji strony."
-  canonical: "https://entervive.edu/docs/wzory-dokumentow"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/dostęp-do-wzorów-dokumentów"
   noindex: false
   robots: "index, follow"
 ---

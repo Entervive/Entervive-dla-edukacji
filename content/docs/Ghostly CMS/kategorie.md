@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Tworzenie nowej kategorii w Ghostly CMS - Entervive dla Edukacji"
   description: "Dowiedz się, jak dodać nową kategorię w Ghostly CMS, aby lepiej uporządkować swoje wpisy."
-  canonical: "https://entervive.edu/docs/ghostly-cms/tworzenie-kategorii"
+  canonical: "https://entervive.edu/docs/ghostly-cms/tworzenie-nowej-kategorii-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

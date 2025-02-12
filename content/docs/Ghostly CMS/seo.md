@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Podstawy SEO w Ghostly CMS - Entervive dla Edukacji"
   description: "Poznaj podstawowe zasady SEO w Ghostly CMS i dowiedz się, jak zoptymalizować swoją stronę, aby była lepiej widoczna w wyszukiwarkach."
-  canonical: "https://entervive.edu/docs/ghostly-cms/podstawy-seo"
+  canonical: "https://entervive.edu/docs/ghostly-cms/podstawy-seo-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

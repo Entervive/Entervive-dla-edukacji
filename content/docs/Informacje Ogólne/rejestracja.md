@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Jak zarejestrować się w ramach programu? - Entervive dla Edukacji"
   description: "Szczegółowy przewodnik rejestracji w Entervive dla Edukacji – krok po kroku."
-  canonical: "https://entervive.edu/docs/rejestracja"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/jak-zarejestrować-się-w-ramach-programu"
   noindex: false
   robots: "index, follow"
 ---

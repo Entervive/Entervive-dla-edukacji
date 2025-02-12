@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Pierwsze kroki z Ghostly CMS - Entervive dla Edukacji"
   description: "Kompleksowy przewodnik dla początkujących użytkowników Ghostly CMS. Dowiedz się, jak korzystać z panelu administracyjnego i tworzyć treści."
-  canonical: "https://entervive.edu/docs/ghostly-cms/pierwsze-kroki"
+  canonical: "https://entervive.edu/docs/ghostly-cms/pierwsze-kroki-z-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

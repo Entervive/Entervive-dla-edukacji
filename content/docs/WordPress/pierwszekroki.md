@@ -10,8 +10,9 @@ toc: true
 seo:
   title: "Pierwsze kroki z WordPress - Entervive dla Edukacji"
   description: "Dowiedz się, jak rozpocząć pracę z WordPress na motywie Kadence. Przewodnik dla nauczycieli."
-  canonical: "https://entervive.edu/docs/wordpress/pierwsze-kroki"
+  canonical: "https://entervive.edu/docs/wordpress/pierwsze-kroki-z-wordpress"
   noindex: false
+  robots: "index, follow"
 ---
 
 ## Wprowadzenie

@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Przypisywanie kategorii do wpisu - Entervive dla Edukacji"
   description: "Dowiedz się, jak w prosty sposób przypisać kategorie do wpisu w Ghostly CMS i uporządkuj treści na swojej stronie."
-  canonical: "https://entervive.edu/docs/ghostly-cms/przypisywanie-kategorii"
+  canonical: "https://entervive.edu/docs/ghostly-cms/przypisywanie-kategorii-do-wpisu-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

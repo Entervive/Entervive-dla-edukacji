@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Podstawy bezpieczeństwa w sieci - Entervive dla Edukacji"
   description: "Przewodnik po podstawowych zasadach bezpieczeństwa w internecie dla nauczycieli."
-  canonical: "https://entervive.edu/docs/bezpieczenstwo"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/podstawy-bezpieczeństwa-w-sieci"
   noindex: false
   robots: "index, follow"
 ---

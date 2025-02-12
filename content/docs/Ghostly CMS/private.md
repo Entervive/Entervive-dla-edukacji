@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Ukrywanie strony - Entervive dla Edukacji"
   description: "Instrukcja, jak włączyć tryb prywatny w Ghostly CMS, zabezpieczyć stronę hasłem i wyłączyć indeksowanie."
-  canonical: "https://entervive.edu/docs/ghostly-cms/ukrywanie-strony"
+  canonical: "https://entervive.edu/docs/ghostly-cms/ukrywanie-strony-włączanie-trybu-private-w-ghostly-cms/"
   noindex: false
   robots: "index, follow"
 ---

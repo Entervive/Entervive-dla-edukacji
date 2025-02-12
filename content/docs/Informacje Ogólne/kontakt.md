@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Kontakt i FAQ - Entervive dla Edukacji"
   description: "Znajdź odpowiedzi na najczęściej zadawane pytania lub dowiedz się, jak się z nami skontaktować."
-  canonical: "https://entervive.edu/docs/kontakt"
+  canonical: "https://entervive.edu/docs/informacje-ogólne/kontakt-i-faq"
   noindex: false
   robots: "index, follow"
 ---

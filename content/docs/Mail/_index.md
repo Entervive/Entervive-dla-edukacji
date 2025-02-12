@@ -14,5 +14,5 @@ seo:
   description: "Instrukcje dotyczące logowania, konfiguracji podpisu i obsługi SOGo w Entervive Edu."
   canonical: "https://entervive.edu/docs/mail"
   noindex: false
-  robots: "index, follow" # custom robot tags (optional)
+  robots: "index, follow"
 ---

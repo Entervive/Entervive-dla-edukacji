@@ -10,8 +10,9 @@ toc: true
 seo:
   title: "Tworzenie nowej kategorii w WordPress - Entervive dla Edukacji"
   description: "Dowiedz się, jak dodać nową kategorię w WordPress i uporządkować treści na swojej stronie."
-  canonical: "https://entervive.edu/docs/wordpress/tworzenie-kategorii"
+  canonical: "https://entervive.edu/docs/wordpress/tworzenie-nowej-kategorii-w-wordpress"
   noindex: false
+  robots: "index, follow"
 ---
 
 ## Wprowadzenie

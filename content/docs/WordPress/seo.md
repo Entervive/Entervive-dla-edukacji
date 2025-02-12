@@ -10,8 +10,9 @@ toc: true
 seo:
   title: "Podstawy SEO w WordPress - Entervive dla Edukacji"
   description: "Dowiedz się, jak zoptymalizować swoją stronę WordPress pod kątem SEO, korzystając z wtyczek i narzędzi optymalizacyjnych."
-  canonical: "https://entervive.edu/docs/wordpress/podstawy-seo"
+  canonical: "https://entervive.edu/docs/wordpress/podstawy-seo-w-wordpress"
   noindex: false
+  robots: "index, follow"
 ---
 
 ## Wprowadzenie
