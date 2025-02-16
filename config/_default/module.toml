@@ -43,15 +43,6 @@
   source = "data"
   target = "data"
 
-## i18n
-[[mounts]]
-  source = "node_modules/@thulite/doks-core/i18n"
-  target = "i18n"
-
-[[mounts]]
-  source = "i18n"
-  target = "i18n"
-
 ## layouts
 [[mounts]]
   source = "node_modules/@thulite/core/layouts"
@@ -85,13 +76,3 @@
 [[mounts]]
   source = "static"
   target = "static"
-
-[[mounts]]
-  source = "content/pl"
-  target = "content"
-  lang = "pl"
-
-[[mounts]]
-  source = "content/en"
-  target = "content"
-  lang = "en"
