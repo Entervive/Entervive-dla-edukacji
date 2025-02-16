@@ -10,7 +10,7 @@ toc: true
 seo:
   title: "Tworzenie nowego wpisu - Entervive dla Edukacji"
   description: "Instrukcja, jak krok po kroku utworzyć nowy wpis w WordPress, korzystając z edytora Gutenberg."
-  canonical: "https://entervive.edu/docs/wordpress/tworzenie-nowego-wpisu-w-wordpress/"
+  canonical: "https://entervive.edu/docs/wordpress/tworzenie-nowego-wpisu-w-wordpress"
   noindex: false
   robots: "index, follow"
 ---
@@ -45,7 +45,7 @@ Gdy wpis jest gotowy, kliknij przycisk **"Opublikuj"**, aby udostępnić go na s
 
 ## Poradnik wideo
 
-{{< video src="/docs/wordpress/filmy/wpis.mp4" >}}
+{{< video src="/docs/wordpress/filmy/wpis.webm" >}}
 
 ---
 

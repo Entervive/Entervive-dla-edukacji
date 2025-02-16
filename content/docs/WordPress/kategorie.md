@@ -37,7 +37,7 @@ Kliknij przycisk **"Dodaj nową kategorię"**, aby zapisać nową kategorię.
 
 ## Poradnik wideo
 
-{{< video src="/docs/wordpress/filmy/kategoria.mp4" >}}
+{{< video src="/docs/wordpress/filmy/kategoria.webm" >}}
 
 ---
 

@@ -41,7 +41,7 @@ Kliknij **"Aktualizuj"** lub **"Zapisz"**, aby zatwierdzić zmiany w wpisie.
 
 ## Poradnik wideo
 
-{{< video src="/docs/wordpress/filmy/przypisywanieKategorii.mp4" >}}
+{{< video src="/docs/wordpress/filmy/przypisywanieKategorii.webm" >}}
 
 ---
 

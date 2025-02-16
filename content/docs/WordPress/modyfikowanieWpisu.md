@@ -41,7 +41,7 @@ Kliknij przycisk **"Aktualizuj"** lub **"Zapisz"**, aby zatwierdzić zmiany.
 
 ## Poradnik wideo
 
-{{< video src="/docs/wordpress/filmy/modyfikowanieWpisu.mp4" >}}
+{{< video src="/docs/wordpress/filmy/modyfikowanieWpisu.webm" >}}
 
 ---
 

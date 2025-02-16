@@ -41,6 +41,6 @@ Gdy skończysz edycję, kliknij **"Zapisz"** lub **"Opublikuj"** (jeśli chcesz,
 
 ## Wideo do pomocy
 
-{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/wpis.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/wpis.webm" >}}
 
 _Jeśli masz pytania, skorzystaj z sekcji [Kontakt i FAQ](/docs/informacje-ogólne/kontakt-i-faq/)._

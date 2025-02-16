@@ -38,7 +38,7 @@ Przejrzyj menu po lewej stronie, aby zapoznać się z podstawowymi funkcjami. Kl
 
 ## Poradnik wideo
 
-{{< video src="/docs/wordpress/filmy/pierwszeKroki.mp4" >}}
+{{< video src="/docs/wordpress/filmy/pierwszeKroki.webm" >}}
 
 ---
 

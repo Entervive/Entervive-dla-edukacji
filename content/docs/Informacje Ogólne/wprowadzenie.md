@@ -31,9 +31,9 @@ Entervive dla edukacji umożliwia nauczycielom dostęp do profesjonalnych rozwi�
 {{< /card >}}
 {{< card title="Podstawy WordPress" icon="outline/puzzle" color="purple" >}}
 
-- [Tworzenie wpisów](/docs/wordpress/tworzenie-wpisow/)
-- [Zarządzanie kategoriami](/docs/wordpress/kategorie/)
-- [Przegląd wtyczek](/docs/wordpress/wtyczki/)
+- [Tworzenie wpisów](/docs/wordpress/tworzenie-nowego-wpisu-w-wordpress/)
+- [Tworzenie nowej kategorii](/docs/wordpress/tworzenie-nowej-kategorii-w-wordpress/)
+- [Modyfikowanie nawigacji](/docs/wordpress/modyfikowanie-nawigacji-w-wordpress/)
 
 {{< /card >}}
 {{< /card-grid >}}
@@ -41,9 +41,9 @@ Entervive dla edukacji umożliwia nauczycielom dostęp do profesjonalnych rozwi�
 {{< card-grid >}}
 {{< card title="Zarządzanie pocztą e-mail" icon="outline/mail" color="green" >}}
 
-- [Dodawanie podpisu](/docs/mail/podpis/)
-- [Logowanie na komputerze](/docs/mail/logowanie-komputer/)
-- [Obsługa SOGo](/docs/mail/sogo/)
+- [Dodawanie podpisu](/docs/mail/dodawanie-podpisu-do-e-maila-w-sogo/)
+- [Logowanie na komputerze](/docs/mail/logowanie-na-komputerze-w-thunderbird-aplikacja-pocztowa/)
+- [Obsługa SOGo](/docs/mail/obsługa-sogo/)
 
 {{< /card >}}
 {{< card title="Inne zasoby" icon="outline/books" color="red" >}}

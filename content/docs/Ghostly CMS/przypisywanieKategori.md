@@ -41,7 +41,7 @@ Po przypisaniu kategorii kliknij **"Update"** lub **"Poczekaj na automatyczny za
 
 ## Wideo pomocnicze
 
-{{< video src="/docs/ghostly-cms/Filmy/przypisywanieKategori.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/przypisywanieKategori.webm" >}}
 
 ---
 

@@ -45,7 +45,7 @@ Po zakończeniu modyfikacji kliknij **"Zapisz menu"**, aby zatwierdzić zmiany.
 
 W tym wideo dodamy wyszukiwanie oraz wybraną kategorię do menu.
 
-{{< video src="/docs/wordpress/filmy/modyfikowanieMenu.mp4" >}}
+{{< video src="/docs/wordpress/filmy/modyfikowanieMenu.webm" >}}
 
 ---
 

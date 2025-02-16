@@ -41,7 +41,7 @@ Kliknij **"Save"**, aby zatwierdzić konfigurację. Od teraz strona będzie dost
 
 ## Poradnik wideo
 
-{{< video src="/docs/ghostly-cms/Filmy/private.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/private.webm" >}}
 
 ---
 

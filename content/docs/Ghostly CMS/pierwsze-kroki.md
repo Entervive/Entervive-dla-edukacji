@@ -23,7 +23,7 @@ Witaj w Ghostly CMS! Ten przewodnik pomoże Ci zrozumieć podstawy działania pa
 
 Najpierw zaloguj się do panelu administracyjnego, używając danych logowania, które otrzymałeś. Otwórz przeglądarkę i wpisz adres swojej strony z końcówką /ghost. Przykładowo: ghostly.entervive.pl/ghost.
 
-{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Logowanie.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Logowanie.webm" >}}
 
 ## Krok 2: Zapoznanie się z dashboardem
 
@@ -34,19 +34,19 @@ Po zalogowaniu zobaczysz dashboard, czyli główny panel, w którym znajdują si
 - **Nawigacja** – zarządzanie menu strony.
 - **Ustawienia** – konfiguracja konta i strony.
 
-{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/zapoznanie.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/zapoznanie.webm" >}}
 
 ## Krok 3: Tworzenie pierwszego wpisu
 
 Przejdź do sekcji **Posts** i kliknij przycisk **"New post"** albo przycisk **plus** obok sekcji **Posts**. Wprowadź tytuł, dodaj treść oraz załaduj zdjęcia, które pomogą zilustrować Twój przekaz.
 
-{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/wpis.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/wpis.webm" >}}
 
 ## Krok 4: Przegląd i edycja treści
 
 Po utworzeniu wpisu możesz go edytować, klikając na niego. W każdej chwili możesz wprowadzać zmiany lub aktualizować treść. Gdy będziesz gotowy możesz swój wpis opublikować albo cofnąć jego publikacje lub w pełni go usunąć.
 
-{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Edytowaniewpisow.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Edytowaniewpisow.webm" >}}
 
 ## Podsumowanie
 

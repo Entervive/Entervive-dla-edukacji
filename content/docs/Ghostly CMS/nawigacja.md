@@ -45,11 +45,11 @@ Każda kategoria ma swój adres. W przypadku naszej kategorii Język Angielski, 
 
 Następnie, aby dodać link do menu, postępuj tak jak wcześniej w celu otwarcia formularza edycji menu. Wklej skopiowany link, a po lewej stronie nazwij go np. Język Angielski. Poniżej znajduje się wideo, które przedstawia wszystkie kroki na tym przykładzie
 
-{{< video src="/docs/ghostly-cms/Filmy/modyfikacjamenu.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/modyfikacjamenu.webm" >}}
 
 ## Przykład: Dodawanie strony do menu
 
-{{< video src="/docs/ghostly-cms/Filmy/menustrona.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/menustrona.webm" >}}
 
 ---
 

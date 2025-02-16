@@ -41,7 +41,7 @@ Kliknij przycisk **"Save"**, aby utworzyć kategorię. Teraz możesz przypisywa�
 
 ## Wideo Pomocniczne
 
-{{< video src="/docs/ghostly-cms/Filmy/tags.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/tags.webm" >}}
 
 ---
 

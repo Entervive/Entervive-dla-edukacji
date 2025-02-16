@@ -39,7 +39,7 @@ W edytorze dokonaj niezbędnych zmian – możesz edytować tekst, dodać nowe z
 
 Po przypisaniu kategorii kliknij **"Update"** lub **"Poczekaj na automatyczny zapis"**, aby zachować zmiany.
 
-{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Edytowaniewpisow.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/PierwszeKroki/Edytowaniewpisow.webm" >}}
 
 ---
 

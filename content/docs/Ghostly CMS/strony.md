@@ -41,7 +41,7 @@ Kliknij **"Publish"**, aby strona stała się dostępna dla odwiedzających.
 
 ## Poradnik wideo
 
-{{< video src="/docs/ghostly-cms/Filmy/strony.mp4" >}}
+{{< video src="/docs/ghostly-cms/Filmy/strony.webm" >}}
 
 ---
 

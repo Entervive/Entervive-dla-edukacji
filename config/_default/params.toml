@@ -1,14 +1,9 @@
-# Hugo
 title = "Entervive dla edukacji"
 description = "Profesjonalny hosting i wsparcie techniczne dla nauczycieli za 20 zł rocznie"
 keywords = ["hosting dla nauczycieli", "strona edukacyjna", "tanio hosting", "domena edukacyjna"]
 canonical = "https://edu.entervive.pl"
 
-# mainSections
 mainSections = ["docs"]
-
-[social]
-  twitter = "getdoks"
 
 [doks]
   colorMode = "auto"
