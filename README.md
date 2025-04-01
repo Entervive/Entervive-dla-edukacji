@@ -25,8 +25,8 @@ Profesjonalne rozwiązania hostingowe dla nauczycieli w symbolicznej cenie 20 z�
 
 1. Sklonuj repozytorium:
 ```bash
-git clone https://github.com/twojanazwa/entervive-edukacja.git
-cd entervive-edukacja
+git clone https://github.com/Entervive/Entervive-dla-edukacji.git
+cd Entervive-dla-edukacji
 ```
 
 2. Zainstaluj potrzebne pakiety to jego działania
